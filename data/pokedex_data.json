@@ -1,0 +1,404 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ant",
+    "imagen": "C:/Users/elkao/Desktop/German/Clase/IA/Pokedex/Dataset/test/hormiga.jpg",
+    "registrado": true
+  },
+  {
+    "id": 2,
+    "nombre": "Armadillo",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 3,
+    "nombre": "Bat",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 4,
+    "nombre": "Bear",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 5,
+    "nombre": "Beatle",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 6,
+    "nombre": "Bee",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 7,
+    "nombre": "Butterfly",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 8,
+    "nombre": "Cat",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 9,
+    "nombre": "Centipede",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 10,
+    "nombre": "Cheetah",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 11,
+    "nombre": "Crab",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 12,
+    "nombre": "Crocodile",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 13,
+    "nombre": "Deer",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 14,
+    "nombre": "Dog",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 15,
+    "nombre": "Dolphin",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 16,
+    "nombre": "Dragonfly",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 17,
+    "nombre": "Duck",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 18,
+    "nombre": "Eagle",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 19,
+    "nombre": "Elephant",
+    "imagen": "C:/Users/elkao/Desktop/German/Clase/IA/Pokedex/Dataset/test/elefante.jpg",
+    "registrado": true
+  },
+  {
+    "id": 20,
+    "nombre": "Falcon",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 21,
+    "nombre": "Fox",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 22,
+    "nombre": "Frog",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 23,
+    "nombre": "Giraffe",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 24,
+    "nombre": "Goat",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 25,
+    "nombre": "Goldfish",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 26,
+    "nombre": "Harbor_seal",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 27,
+    "nombre": "Hedgehog",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 28,
+    "nombre": "Hippopotamus",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 29,
+    "nombre": "Horse",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 30,
+    "nombre": "Jaguar",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 31,
+    "nombre": "Jellyfish",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 32,
+    "nombre": "Kangaroo",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 33,
+    "nombre": "Koala",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 34,
+    "nombre": "Ladybug",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 35,
+    "nombre": "Leopard",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 36,
+    "nombre": "Lion",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 37,
+    "nombre": "Lizard",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 38,
+    "nombre": "Lobster",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 39,
+    "nombre": "Mallard",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 40,
+    "nombre": "Monkey",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 41,
+    "nombre": "Mouse",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 42,
+    "nombre": "Otter",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 43,
+    "nombre": "Owl",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 44,
+    "nombre": "Oyster",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 45,
+    "nombre": "Panda",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 46,
+    "nombre": "Parrot",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 47,
+    "nombre": "Pig",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 48,
+    "nombre": "Porcupine",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 49,
+    "nombre": "Rabbit",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 50,
+    "nombre": "Rhinoceros",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 51,
+    "nombre": "Seahorse",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 52,
+    "nombre": "Shark",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 53,
+    "nombre": "Sheep",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 54,
+    "nombre": "Shrimp",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 55,
+    "nombre": "Snake",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 56,
+    "nombre": "Spider",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 57,
+    "nombre": "Squid",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 58,
+    "nombre": "Squirrel",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 59,
+    "nombre": "Starfish",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 60,
+    "nombre": "Swan",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 61,
+    "nombre": "Tick",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 62,
+    "nombre": "Tiger",
+    "imagen": "C:/Users/elkao/Desktop/German/Clase/IA/Pokedex/Dataset/test/tigre.jpg",
+    "registrado": true
+  },
+  {
+    "id": 63,
+    "nombre": "Turtle",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 64,
+    "nombre": "Whale",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 65,
+    "nombre": "Woodpecker",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 66,
+    "nombre": "Worm",
+    "imagen": null,
+    "registrado": false
+  },
+  {
+    "id": 67,
+    "nombre": "Zebra",
+    "imagen": null,
+    "registrado": false
+  }
+]

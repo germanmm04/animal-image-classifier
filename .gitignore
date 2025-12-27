@@ -1,0 +1,8 @@
+.venv/
+.idea/
+*.keras
+Dataset/
+UI/assets
+__pycache__/
+notas/
+REFACTORING_REPORT.md
