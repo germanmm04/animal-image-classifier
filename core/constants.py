@@ -24,3 +24,4 @@ WINDOW_HEIGHT = 800
 # Tamaño de imagen para el modelo
 MODEL_IMAGE_SIZE = (224, 224)
 
+

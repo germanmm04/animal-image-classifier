@@ -1,0 +1,20 @@
+# Pokedex — dependencias para ejecutar la aplicación (UI + inferencia)
+#
+# Python: 3.9 a 3.12, 64 bits (TensorFlow no soporta Windows 32 bits).
+# Crear entorno e instalar:
+#   python -m venv .venv
+#   .venv\Scripts\activate
+#   pip install -U pip
+#   pip install -r requirements.txt
+#
+# El archivo del modelo no va en git: copia model/pokedex_modelv1.keras
+# o ajusta la ruta en UI/main.py. TensorFlow >= 2.16 (Keras 3) es necesario
+# para cargar modelos .keras guardados con ese formato.
+
+tensorflow==2.20.0
+PySide6==6.10.1
+numpy==1.26.4
+Pillow==11.3.0
+
+# --- Opcional: solo si ejecutas model/descargar_animales.py (FiftyOne pesa mucho) ---
+# fiftyone==1.11.0
