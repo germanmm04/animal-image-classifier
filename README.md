@@ -54,19 +54,21 @@ The application features a graphical user interface built with PySide6 and a Con
 
 ### Main Interface
 
-![Main Interface](images/main_interface.png)
+![Main Interface](images/main_menu.jpg)
 
 ### Animal Prediction
 
-![Prediction](images/prediction.png)
+![Prediction](images/registro.jpg)
+![Prediction](images/registro2.jpg)
 
 ### Collection System
 
-![Collection](images/collection.png)
+![Collection](images/registrados.jpg)
+![Collection](images/ficha.jpg)
 
-### Training Accuracy
+### Settings
 
-![Accuracy](images/accuracy.png)
+![Accuracy](images/settings.jpg)
 
 ---
 
@@ -75,7 +77,7 @@ The application features a graphical user interface built with PySide6 and a Con
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/animal-image-classifier.git
+git clone https://github.com/germanmm04/animal-image-classifier.git
 ```
 
 Install dependencies:
@@ -92,7 +94,7 @@ python main.py
 
 ---
 
-## 📚 What I Learned
+##  What I Learned
 
 * Deep learning fundamentals
 * Convolutional Neural Networks (CNNs)
@@ -104,7 +106,7 @@ python main.py
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 * Increase the number of supported animal species
 * Implement transfer learning with pretrained models
@@ -115,6 +117,6 @@ python main.py
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Personal project developed as part of my portfolio in Artificial Intelligence, Big Data, and Software Development.
