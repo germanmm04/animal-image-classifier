@@ -50,7 +50,7 @@ The application features a graphical user interface built with PySide6 and a Con
 ---
 
 
-## 📷 Screenshots
+##  Screenshots
 
 ### Main Interface
 
@@ -72,7 +72,7 @@ The application features a graphical user interface built with PySide6 and a Con
 
 ---
 
-## ▶️ Installation
+##  Installation
 
 Clone the repository:
 
